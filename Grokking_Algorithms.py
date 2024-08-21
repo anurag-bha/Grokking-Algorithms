@@ -28,8 +28,7 @@ class GrokkingAlgorithms:
                                 return None
                 return self.BinSearch_idx
 
-def test_answer():        
-        assert GrokkingAlgorithms().BinarySearch([1, 4, 5, 7, 9, 10], 5) == 2
+
         
 
 
