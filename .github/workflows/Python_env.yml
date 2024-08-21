@@ -37,7 +37,6 @@ jobs:
       - name: Hello World 
         run: |
           python -c "import numpy as np; print('Numpy version: '+np.__version__)"
-          python -c "import matplotlib as mpl; print('Matplotlib version: '+mpl.__version__)"
           python -c "import pytest as pt; print('pytest version: '+pt.__version__)"
         
       - name: Run unit testing
