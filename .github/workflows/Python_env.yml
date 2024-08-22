@@ -41,7 +41,7 @@ jobs:
         
       - name: Run unit testing
         run: |
-          pytest -q unitesting/test_class.py
+          pytest -q unittesting/test_class.py
      
       - name: Run code
         run: |
