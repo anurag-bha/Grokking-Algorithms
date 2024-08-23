@@ -45,7 +45,7 @@ jobs:
      
       - name: Run code
         run: |
-          python Grokking_Algorithms.py
+          python src/Grokking_Algorithms.py
 
       
       
