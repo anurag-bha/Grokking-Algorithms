@@ -1,4 +1,4 @@
-![example workflow](https://github.com/anurag-bha/Grokking-Algorithms/actions/workflows/Python_env.yml/badge.svg)
+![CI/CD](https://github.com/anurag-bha/Grokking-Algorithms/actions/workflows/Python_env.yml/badge.svg)
 
 # GitHub workflows for Grokking-Algorithms
 **Author:** Anurag Bhattacharyya
